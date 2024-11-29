@@ -1,3 +1,21 @@
+'''
+Лабораторная работа 3 - Первичный анализ данных Формулы-1
+
+Этот скрипт выполняет первичный анализ данных из различных CSV файлов, связанных с Формулой-1.
+Основные задачи:
+1. Загрузка и просмотр данных из нескольких CSV файлов
+2. Вывод первых 5 строк каждой таблицы
+3. Вывод информации о структуре данных
+4. Анализ уникальных значений в каждом столбце
+
+Используемые наборы данных:
+- drivers.csv: информация о гонщиках
+- results.csv: результаты гонок
+- qualifying.csv: данные квалификаций
+- races.csv: информация о гонках
+- circuits.csv: данные о трассах
+'''
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -6,28 +24,38 @@ import warnings
 
 '''
 Задание 3. Загрузите набор данных для первичного просмотра. Выведите голову таблицы, чтобы убедиться что все отображается корректно.
- Выведите информацию о наборе (info). Выведите уникальные значения по каждому столбцу.
+Выведите информацию о наборе (info). Выведите уникальные значения по каждому столбцу.
 '''
 
-drivers = pd.read_csv("drivers.csv")
-results = pd.read_csv("results.csv")
-qualifying = pd.read_csv("qualifying.csv")
-races = pd.read_csv("races.csv")
-circuits = pd.read_csv("circuits.csv")
+# Загрузка всех необходимых CSV файлов
+drivers = pd.read_csv("AI/F1/drivers.csv")
+results = pd.read_csv("AI/F1/results.csv")
+qualifying = pd.read_csv("AI/F1/qualifying.csv")
+races = pd.read_csv("AI/F1/races.csv")
+circuits = pd.read_csv("AI/F1/circuits.csv")
 
-
+# Создание списков для удобного перебора датафреймов
 dataset = [drivers, circuits, qualifying, races, results]
 titles = ['Drivers', 'Circuits', 'Qualifying', 'Races', 'Results']
 
-
+# Настройка отображения всех столбцов в pandas
 pd.set_option('display.max_columns', None)
 
+# Первый цикл: Вывод первых 5 строк каждой таблицы
+# zip() объединяет два списка (titles и dataset) в пары (название таблицы, датафрейм)
 for title, df in zip(titles, dataset):
-    print(f"**{title}**")
-    print(df.head(5))
-    print("\n")
+    print(f"**{title}**")  # Выводим название таблицы в формате markdown
+    print(df.head(5))      # Выводим первые 5 строк датафрейма
+    print("\n")            # Добавляем пустую строку для читаемости
 
+# Второй цикл: Вывод информации о структуре каждой таблицы
+# df.info() показывает:
+# - Количество строк и столбцов
+# - Названия всех столбцов
+# - Тип данных каждого столбца
+# - Количество непустых значений
+# - Использование памяти
 for title, df in zip(titles, dataset):
-    print(f"**{title}**")
-    print(df.info())
-    print("\n")
+    print(f"**{title}**")  # Выводим название таблицы в формате markdown
+    print(df.info())       # Выводим подробную информацию о структуре таблицы
+    print("\n")            # Добавляем пустую строку для читаемости
