@@ -70,7 +70,7 @@ df['points'] = df['points'].replace(0, None)
 pd.set_option('display.max_columns', None)
 
 # Выборка необходимых столбцов для корреляционного анализа
-dfCorr = df[['dob','grid','positionOrder','points']]
+dfCorr = df[['dob','grid','positionOrder','laps']]
 
 # Построение матрицы корреляции
 dfCorr = dfCorr.corr()
