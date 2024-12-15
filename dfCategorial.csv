@@ -1,0 +1,860 @@
+code,forename,surname,nationality,location,country
+HAM,Lewis,Hamilton,British,Melbourne,Australia
+HEI,Nick,Heidfeld,German,Melbourne,Australia
+ROS,Nico,Rosberg,German,Melbourne,Australia
+ALO,Fernando,Alonso,Spanish,Melbourne,Australia
+KOV,Heikki,Kovalainen,Finnish,Melbourne,Australia
+NAK,Kazuki,Nakajima,Japanese,Melbourne,Australia
+BOU,Sébastien,Bourdais,French,Melbourne,Australia
+RAI,Kimi,Räikkönen,Finnish,Melbourne,Australia
+KUB,Robert,Kubica,Polish,Melbourne,Australia
+GLO,Timo,Glock,German,Melbourne,Australia
+SAT,Takuma,Sato,Japanese,Melbourne,Australia
+PIQ,Nelson,Piquet Jr.,Brazilian,Melbourne,Australia
+MAS,Felipe,Massa,Brazilian,Melbourne,Australia
+COU,David,Coulthard,British,Melbourne,Australia
+TRU,Jarno,Trulli,Italian,Melbourne,Australia
+SUT,Adrian,Sutil,German,Melbourne,Australia
+WEB,Mark,Webber,Australian,Melbourne,Australia
+BUT,Jenson,Button,British,Melbourne,Australia
+DAV,Anthony,Davidson,British,Melbourne,Australia
+VET,Sebastian,Vettel,German,Melbourne,Australia
+FIS,Giancarlo,Fisichella,Italian,Melbourne,Australia
+BAR,Rubens,Barrichello,Brazilian,Melbourne,Australia
+SCH,Ralf,Schumacher,German,Melbourne,Australia
+LIU,Vitantonio,Liuzzi,Italian,Melbourne,Australia
+WUR,Alexander,Wurz,Austrian,Melbourne,Australia
+SPE,Scott,Speed,American,Melbourne,Australia
+ALB,Christijan,Albers,Dutch,Melbourne,Australia
+WIN,Markus,Winkelhock,German,Nürburg,Germany
+YAM,Sakon,Yamamoto,Japanese,Budapest,Hungary
+MSC,Michael,Schumacher,German,Sakhir,Bahrain
+MON,Juan,Pablo Montoya,Colombian,Sakhir,Bahrain
+KLI,Christian,Klien,Austrian,Sakhir,Bahrain
+TMO,Tiago,Monteiro,Portuguese,Sakhir,Bahrain
+IDE,Yuji,Ide,Japanese,Sakhir,Bahrain
+VIL,Jacques,Villeneuve,Canadian,Sakhir,Bahrain
+FMO,Franck,Montagny,French,Nürburg,Germany
+DLR,Pedro,de la Rosa,Spanish,Magny Cours,France
+DOO,Robert,Doornbos,Dutch,Shanghai,China
+KAR,Narain,Karthikeyan,Indian,Melbourne,Australia
+FRI,Patrick,Friesacher,Austrian,Melbourne,Australia
+ZON,Ricardo,Zonta,Brazilian,Indianapolis,USA
+PIZ,Antônio,Pizzonia,Brazilian,Monza,Italy
+,Cristiano,da Matta,Brazilian,Melbourne,Australia
+,Olivier,Panis,French,Melbourne,Australia
+,Giorgio,Pantano,Italian,Melbourne,Australia
+,Gianmaria,Bruni,Italian,Melbourne,Australia
+,Zsolt,Baumgartner,Hungarian,Melbourne,Australia
+,Marc,Gené,Spanish,Magny Cours,France
+,Heinz-Harald,Frentzen,German,Melbourne,Australia
+,Jos,Verstappen,Dutch,Melbourne,Australia
+,Justin,Wilson,British,Melbourne,Australia
+,Ralph,Firman,Irish,Melbourne,Australia
+,Nicolas,Kiesa,Danish,Hockenheim,Germany
+,Luciano,Burti,Brazilian,Melbourne,Australia
+,Jean,Alesi,French,Melbourne,Australia
+,Eddie,Irvine,British,Melbourne,Australia
+,Mika,Häkkinen,Finnish,Melbourne,Australia
+,Tarso,Marques,Brazilian,Melbourne,Australia
+,Enrique,Bernoldi,Brazilian,Melbourne,Australia
+,Gastón,Mazzacane,Argentine,Melbourne,Australia
+,Tomáš,Enge,Czech,Monza,Italy
+,Alex,Yoong,Malaysian,Melbourne,Australia
+,Mika,Salo,Finnish,Melbourne,Australia
+,Pedro,Diniz,Brazilian,Melbourne,Australia
+,Johnny,Herbert,British,Melbourne,Australia
+,Allan,McNish,British,Melbourne,Australia
+BUE,Sébastien,Buemi,Swiss,Melbourne,Australia
+,Toranosuke,Takagi,Japanese,Melbourne,Australia
+BAD,Luca,Badoer,Italian,Melbourne,Australia
+,Alessandro,Zanardi,Italian,Melbourne,Australia
+,Damon,Hill,British,Melbourne,Australia
+,Stéphane,Sarrazin,French,São Paulo,Brazil
+,Ricardo,Rosset,Brazilian,Melbourne,Australia
+,Esteban,Tuero,Argentine,Melbourne,Australia
+,Shinji,Nakano,Japanese,Melbourne,Australia
+MAG,Jan,Magnussen,Danish,Melbourne,Australia
+,Gerhard,Berger,Austrian,Melbourne,Australia
+,Nicola,Larini,Italian,Melbourne,Australia
+,Ukyo,Katayama,Japanese,Melbourne,Australia
+,Vincenzo,Sospiri,Italian,Melbourne,Australia
+,Gianni,Morbidelli,Italian,Montmeló,Spain
+,Norberto,Fontana,Argentine,Magny Cours,France
+,Pedro,Lamy,Portuguese,Melbourne,Australia
+,Martin,Brundle,British,Melbourne,Australia
+,Andrea,Montermini,Italian,Melbourne,Australia
+,Giovanni,Lavaggi,Italian,Hockenheim,Germany
+,Mark,Blundell,British,São Paulo,Brazil
+,Aguri,Suzuki,Japanese,São Paulo,Brazil
+,Taki,Inoue,Japanese,São Paulo,Brazil
+,Roberto,Moreno,Brazilian,São Paulo,Brazil
+,Karl,Wendlinger,Austrian,São Paulo,Brazil
+,Bertrand,Gachot,Belgian,São Paulo,Brazil
+,Domenico,Schiattarella,Italian,São Paulo,Brazil
+,Pierluigi,Martini,Italian,São Paulo,Brazil
+,Nigel,Mansell,British,Imola,Italy
+,Jean-Christophe,Boullion,French,Monte-Carlo,Monaco
+,Massimiliano,Papis,Italian,Silverstone,UK
+,Jean-Denis,Délétraz,Swiss,Estoril,Portugal
+,Gabriele,Tarquini,Italian,Nürburg,Germany
+,Érik,Comas,French,São Paulo,Brazil
+,David,Brabham,Australian,São Paulo,Brazil
+,Ayrton,Senna,Brazilian,São Paulo,Brazil
+,Éric,Bernard,French,São Paulo,Brazil
+,Christian,Fittipaldi,Brazilian,São Paulo,Brazil
+,Michele,Alboreto,Italian,São Paulo,Brazil
+,Olivier,Beretta,Monegasque,São Paulo,Brazil
+,Roland,Ratzenberger,Austrian,São Paulo,Brazil
+,Paul,Belmondo,French,São Paulo,Brazil
+,Jyrki,Järvilehto,Finnish,Imola,Italy
+,Andrea,de Cesaris,Italian,Imola,Italy
+,Jean-Marc,Gounon,French,Magny Cours,France
+,Philippe,Alliot,French,Budapest,Hungary
+,Philippe,Adams,Belgian,Spa,Belgium
+,Yannick,Dalmas,French,Monza,Italy
+,Hideki,Noda,Japanese,Jerez de la Frontera,Spain
+,Franck,Lagorce,French,Suzuka,Japan
+,Alain,Prost,French,Midrand,South Africa
+,Derek,Warwick,British,Midrand,South Africa
+,Riccardo,Patrese,Italian,Midrand,South Africa
+,Fabrizio,Barbazza,Italian,Midrand,South Africa
+,Michael,Andretti,American,Midrand,South Africa
+,Ivan,Capelli,Italian,Midrand,South Africa
+,Thierry,Boutsen,Belgian,Castle Donington,UK
+,Marco,Apicella,Italian,Monza,Italy
+,Emanuele,Naspetti,Italian,Estoril,Portugal
+,Toshio,Suzuki,Japanese,Suzuka,Japan
+,Maurício,Gugelmin,Brazilian,Midrand,South Africa
+,Eric,van de Poele,Belgian,Midrand,South Africa
+,Olivier,Grouillard,French,Midrand,South Africa
+,Andrea,Chiesa,Swiss,Midrand,South Africa
+,Stefano,Modena,Italian,Midrand,South Africa
+,Giovanna,Amati,Italian,Midrand,South Africa
+,Alex,Caffi,Italian,Phoenix,USA
+,Enrico,Bertaggia,Italian,Spa,Belgium
+,Perry,McCarthy,British,Montmeló,Spain
+,Jan,Lammers,Dutch,Suzuka,Japan
+,Nelson,Piquet,Brazilian,Phoenix,USA
+,Satoru,Nakajima,Japanese,Phoenix,USA
+,Emanuele,Pirro,Italian,Phoenix,USA
+,Stefan,Johansson,Swedish,Phoenix,USA
+,Julian,Bailey,British,Phoenix,USA
+,Pedro,Chaves,Portuguese,Phoenix,USA
+,Michael,Bartels,German,Hockenheim,Germany
+,Naoki,Hattori,Japanese,Suzuka,Japan
+,Alessandro,Nannini,Italian,Phoenix,USA
+,Bernd,Schneider,German,Phoenix,USA
+,Paolo,Barilla,Italian,Phoenix,USA
+,Gregor,Foitek,Swiss,Phoenix,USA
+,Claudio,Langes,Italian,Phoenix,USA
+,Gary,Brabham,Australian,Phoenix,USA
+,Martin,Donnelly,British,Phoenix,USA
+,Bruno,Giacomelli,Italian,Imola,Italy
+ALG,Jaime,Alguersuari,Spanish,Budapest,Hungary
+GRO,Romain,Grosjean,French,Valencia,Spain
+KOB,Kamui,Kobayashi,Japanese,São Paulo,Brazil
+,Jonathan,Palmer,British,Rio de Janeiro,Brazil
+,Christian,Danner,German,Rio de Janeiro,Brazil
+,Eddie,Cheever,American,Rio de Janeiro,Brazil
+,Luis,Pérez-Sala,Spanish,Rio de Janeiro,Brazil
+,Piercarlo,Ghinzani,Italian,Rio de Janeiro,Brazil
+,Volker,Weidler,German,Rio de Janeiro,Brazil
+,Pierre-Henri,Raphanel,French,Rio de Janeiro,Brazil
+,René,Arnoux,French,Rio de Janeiro,Brazil
+,Joachim,Winkelhock,German,Rio de Janeiro,Brazil
+,Oscar,Larrauri,Argentine,Monza,Italy
+,Philippe,Streiff,French,Rio de Janeiro,Brazil
+,Adrián,Campos,Spanish,Rio de Janeiro,Brazil
+,Jean-Louis,Schlesser,French,Monza,Italy
+,Pascal,Fabre,French,Rio de Janeiro,Brazil
+,Teo,Fabi,Italian,Rio de Janeiro,Brazil
+,Franco,Forini,Swiss,Monza,Italy
+,Jacques,Laffite,French,Rio de Janeiro,Brazil
+,Elio,de Angelis,Italian,Rio de Janeiro,Brazil
+,Johnny,Dumfries,British,Rio de Janeiro,Brazil
+,Patrick,Tambay,French,Rio de Janeiro,Brazil
+,Marc,Surer,Swiss,Rio de Janeiro,Brazil
+,Keke,Rosberg,Finnish,Rio de Janeiro,Brazil
+,Alan,Jones,Australian,Rio de Janeiro,Brazil
+,Huub,Rothengatter,Dutch,Imola,Italy
+,Allen,Berg,Canadian,Detroit,USA
+,Manfred,Winkelhock,German,Rio de Janeiro,Brazil
+,Niki,Lauda,Austrian,Rio de Janeiro,Brazil
+,François,Hesnault,French,Rio de Janeiro,Brazil
+,Mauro,Baldi,Italian,Rio de Janeiro,Brazil
+,Stefan,Bellof,German,Estoril,Portugal
+,Kenny,Acheson,British,Spielberg,Austria
+,John,Watson,British,Kent,UK
+,Johnny,Cecotto,Venezuelan,Rio de Janeiro,Brazil
+,Jo,Gartner,Austrian,Imola,Italy
+,Corrado,Fabi,Italian,Monte-Carlo,Monaco
+,Mike,Thackwell,New Zealander,Montreal,Canada
+,Chico,Serra,Brazilian,Rio de Janeiro,Brazil
+,Danny,Sullivan,American,Rio de Janeiro,Brazil
+,Eliseo,Salazar,Chilean,Rio de Janeiro,Brazil
+,Roberto,Guerrero,Colombian,Rio de Janeiro,Brazil
+,Raul,Boesel,Brazilian,Rio de Janeiro,Brazil
+,Jean-Pierre,Jarier,French,Rio de Janeiro,Brazil
+,Jacques,Villeneuve Sr.,Canadian,Montreal,Canada
+,Carlos,Reutemann,Argentine,Midrand,South Africa
+,Jochen,Mass,German,Midrand,South Africa
+,Slim,Borgudd,Swedish,Midrand,South Africa
+,Didier,Pironi,French,Midrand,South Africa
+,Gilles,Villeneuve,Canadian,Midrand,South Africa
+,Riccardo,Paletti,Italian,Midrand,South Africa
+,Brian,Henton,British,Midrand,South Africa
+,Derek,Daly,Irish,Midrand,South Africa
+,Mario,Andretti,American,California,USA
+,Emilio,de Villota,Spanish,Heusden-Zolder,Belgium
+,Geoff,Lees,British,Montreal,Canada
+,Tommy,Byrne,Irish,Hockenheim,Germany
+,Rupert,Keegan,British,Hockenheim,Germany
+,Hector,Rebaque,Mexican,California,USA
+,Beppe,Gabbiani,Italian,California,USA
+,Kevin,Cogan,American,California,USA
+,Miguel Ángel,Guerra,Argentine,California,USA
+,Siegfried,Stohr,Italian,California,USA
+,Ricardo,Zunino,Argentine,Rio de Janeiro,Brazil
+,Ricardo,Londoño,Colombian,Rio de Janeiro,Brazil
+,Jean-Pierre,Jabouille,French,Buenos Aires,Argentina
+,Giorgio,Francia,Italian,Madrid,Spain
+,Patrick,Depailler,French,Buenos Aires,Argentina
+,Jody,Scheckter,South African,Buenos Aires,Argentina
+,Clay,Regazzoni,Swiss,Buenos Aires,Argentina
+,Emerson,Fittipaldi,Brazilian,Buenos Aires,Argentina
+,Dave,Kennedy,Irish,Buenos Aires,Argentina
+,Stephen,South,British,California,USA
+,Tiff,Needell,British,Heusden-Zolder,Belgium
+,Desiré,Wilson,South African,Kent,UK
+,Harald,Ertl,Austrian,Hockenheim,Germany
+,Vittorio,Brambilla,Italian,Zandvoort,Netherlands
+,James,Hunt,British,Buenos Aires,Argentina
+,Arturo,Merzario,Italian,Buenos Aires,Argentina
+,Hans-Joachim,Stuck,German,Buenos Aires,Argentina
+,Gianfranco,Brancatelli,Italian,Madrid,Spain
+,Jacky,Ickx,Belgian,Dijon,France
+,Patrick,Gaillard,French,Dijon,France
+,Alex,Ribeiro,Brazilian,Montreal,Canada
+,Ronnie,Peterson,Swedish,Buenos Aires,Argentina
+,Brett,Lunger,American,Buenos Aires,Argentina
+,Danny,Ongais,American,Buenos Aires,Argentina
+,Lamberto,Leoni,Italian,Buenos Aires,Argentina
+,Divina,Galica,British,Buenos Aires,Argentina
+,Rolf,Stommelen,German,Midrand,South Africa
+,Alberto,Colombo,Italian,Heusden-Zolder,Belgium
+,Tony,Trimmer,British,Kent,UK
+,Hans,Binder,Austrian,Spielberg,Austria
+,Michael,Bleekemolen,Dutch,Zandvoort,Netherlands
+,Carlo,Franchi,Italian,Monza,Italy
+,Bobby,Rahal,American,New York State,USA
+,Carlos,Pace,Brazilian,Buenos Aires,Argentina
+,Ian,Scheckter,South African,Buenos Aires,Argentina
+,Tom,Pryce,British,Buenos Aires,Argentina
+,Ingo,Hoffmann,Brazilian,Buenos Aires,Argentina
+,Renzo,Zorzi,Italian,Buenos Aires,Argentina
+,Gunnar,Nilsson,Swedish,Buenos Aires,Argentina
+,Larry,Perkins,Australian,São Paulo,Brazil
+,Boy,Lunger,Dutch,Midrand,South Africa
+,Patrick,Nève,Belgian,Madrid,Spain
+,David,Purley,British,Madrid,Spain
+,Conny,Andersson,Swedish,Madrid,Spain
+,Bernard,de Dryver,Belgian,Heusden-Zolder,Belgium
+,Jackie,Oliver,British,Anderstorp,Sweden
+,Mikko,Kozarowitzky,Finnish,Anderstorp,Sweden
+,Andy,Sutcliffe,British,Silverstone,UK
+,Guy,Edwards,British,Silverstone,UK
+,Brian,McGuire,Australian,Silverstone,UK
+,Vern,Schuppan,Australian,Silverstone,UK
+,Hans,Heyer,German,Hockenheim,Germany
+,Teddy,Pilette,Belgian,Hockenheim,Germany
+,Ian,Ashley,British,Spielberg,Austria
+,Loris,Kessel,Swiss,Monza,Italy
+,Kunimitsu,Takahashi,Japanese,Oyama,Japan
+,Kazuyoshi,Hoshino,Japanese,Oyama,Japan
+,Noritake,Takahara,Japanese,Oyama,Japan
+,Lella,Lombardi,Italian,São Paulo,Brazil
+,Bob,Evans,British,Midrand,South Africa
+,Michel,Leclère,French,Midrand,South Africa
+,Chris,Amon,New Zealander,Midrand,South Africa
+,Emilio,Zapico,Spanish,Madrid,Spain
+,Henri,Pescarolo,French,Monte-Carlo,Monaco
+,Jac,Nelleman,Danish,Anderstorp,Sweden
+,Damien,Magee,British,Le Castellet,France
+,Mike,Wilds,British,Kent,UK
+,Alessandro,Pesenti-Rossi,Italian,Nürburg,Germany
+,Otto,Stuppacher,Austrian,Monza,Italy
+,Warwick,Brown,Australian,New York State,USA
+,Masahiro,Hasemi,Japanese,Oyama,Japan
+,Mark,Donohue,American,Buenos Aires,Argentina
+,Graham,Hill,British,Buenos Aires,Argentina
+,Wilson,Fittipaldi,Brazilian,Buenos Aires,Argentina
+,Guy,Tunmer,South African,Midrand,South Africa
+,Eddie,Keizan,South African,Midrand,South Africa
+,Dave,Charlton,South African,Midrand,South Africa
+,Tony,Brise,British,Barcelona,Spain
+,Roelof,Wunderink,Dutch,Barcelona,Spain
+,François,Migault,French,Barcelona,Spain
+,Torsten,Palm,Swedish,Monte-Carlo,Monaco
+,Gijs,van Lennep,Dutch,Zandvoort,Netherlands
+,Hiroshi,Fushida,Japanese,Zandvoort,Netherlands
+,John,Nicholson,New Zealander,Silverstone,UK
+,Dave,Morgan,British,Silverstone,UK
+,Jim,Crawford,British,Silverstone,UK
+,Jo,Vonlanthen,Swiss,Spielberg,Austria
+,Denny,Hulme,New Zealander,Buenos Aires,Argentina
+,Mike,Hailwood,British,Buenos Aires,Argentina
+,Jean-Pierre,Beltoise,French,Buenos Aires,Argentina
+,Howden,Ganley,New Zealander,Buenos Aires,Argentina
+,Richard,Robarts,British,Buenos Aires,Argentina
+,Peter,Revson,American,Buenos Aires,Argentina
+,Paddy,Driver,South African,Midrand,South Africa
+,Tom,Belsø,Danish,Midrand,South Africa
+,Brian,Redman,British,Madrid,Spain
+,Rikky,von Opel,Liechtensteiner,Madrid,Spain
+,Tim,Schenken,Australian,Madrid,Spain
+,Gérard,Larrousse,French,Brussels,Belgium
+,Leo,Kinnunen,Finnish,Brussels,Belgium
+,Reine,Wisell,Swedish,Anderstorp,Sweden
+,Bertil,Roos,Swedish,Anderstorp,Sweden
+,José,Dolhem,French,Dijon,France
+,Peter,Gethin,British,Kent,UK
+,Derek,Bell,British,Kent,UK
+,David,Hobbs,British,Spielberg,Austria
+,Dieter,Quester,Austrian,Spielberg,Austria
+,Helmuth,Koinigg,Austrian,Spielberg,Austria
+,Carlo,Facetti,Italian,Monza,Italy
+,Eppie,Wietzes,Canadian,Ontario,Canada
+,François,Cevert,French,Buenos Aires,Argentina
+,Jackie,Stewart,British,Buenos Aires,Argentina
+,Mike,Beuttler,British,Buenos Aires,Argentina
+,Nanni,Galli,Italian,Buenos Aires,Argentina
+,Luiz,Bueno,Brazilian,São Paulo,Brazil
+,George,Follmer,American,Midrand,South Africa
+,Andrea,de Adamich,Italian,Midrand,South Africa
+,Jackie,Pretorius,South African,Midrand,South Africa
+,Roger,Williamson,British,Silverstone,UK
+,Graham,McRae,New Zealander,Silverstone,UK
+,Helmut,Marko,Austrian,Buenos Aires,Argentina
+,David,Walker,Australian,Buenos Aires,Argentina
+,Alex,Soler-Roig,Spanish,Buenos Aires,Argentina
+,John,Love,Rhodesian,Midrand,South Africa
+,John,Surtees,British,Monza,Italy
+,Skip,Barber,American,Ontario,Canada
+,Bill,Brack,Canadian,Ontario,Canada
+,Sam,Posey,American,New York State,USA
+,Pedro,Rodríguez,Mexican,Midrand,South Africa
+,Jo,Siffert,Swiss,Midrand,South Africa
+,Jo,Bonnier,Swedish,Midrand,South Africa
+,François,Mazet,French,Le Castellet,France
+,Max,Jean,French,Le Castellet,France
+,Vic,Elford,British,Nürburg,Germany
+,Silvio,Moser,Swiss,Monza,Italy
+,George,Eaton,Canadian,Ontario,Canada
+,Pete,Lovely,American,Ontario,Canada
+,Chris,Craft,British,Ontario,Canada
+,John,Cannon,Canadian,New York State,USA
+,Jack,Brabham,Australian,Midrand,South Africa
+,John,Miles,British,Midrand,South Africa
+,Jochen,Rindt,Austrian,Midrand,South Africa
+,Johnny,Servoz-Gavin,French,Midrand,South Africa
+,Bruce,McLaren,New Zealander,Midrand,South Africa
+,Piers,Courage,British,Midrand,South Africa
+,Peter,de Klerk,South African,Midrand,South Africa
+,Ignazio,Giunti,Italian,Spa,Belgium
+,Dan,Gurney,American,Zandvoort,Netherlands
+,Hubert,Hahne,German,Hockenheim,Germany
+,Gus,Hutchison,American,New York State,USA
+,Peter,Westbury,British,New York State,USA
+,Sam,Tingle,Rhodesian,Midrand,South Africa
+,Basil,van Rooyen,South African,Midrand,South Africa
+,Richard,Attwood,British,Monte-Carlo,Monaco
+,Al,Pease,Canadian,Ontario,Canada
+,John,Cordts,Canadian,Ontario,Canada
+,Jim,Clark,British,Midrand,South Africa
+,Mike,Spence,British,Midrand,South Africa
+,Ludovico,Scarfiotti,Italian,Midrand,South Africa
+BIA,Lucien,Bianchi,Belgian,Monte-Carlo,Monaco
+,Jo,Schlesser,French,Rouen,France
+,Robin,Widdows,British,Kent,UK
+,Kurt,Ahrens,German,Nürburg,Germany
+,Frank,Gardner,Australian,Monza,Italy
+,Bobby,Unser,American,New York State,USA
+,Moisés,Solana,Mexican,Mexico City,Mexico
+,Bob,Anderson,British,Midrand,South Africa
+,Luki,Botha,South African,Midrand,South Africa
+,Lorenzo,Bandini,Italian,Monte-Carlo,Monaco
+,Richie,Ginther,American,Monte-Carlo,Monaco
+,Mike,Parkes,British,Zandvoort,Netherlands
+,Chris,Irwin,British,Zandvoort,Netherlands
+,Guy,Ligier,French,Spa,Belgium
+,Alan,Rees,British,Silverstone,UK
+,Brian,Hart,British,Nürburg,Germany
+,Mike,Fisher,American,Ontario,Canada
+,Tom,Jones,American,Ontario,Canada
+,Giancarlo,Baghetti,Italian,Monza,Italy
+,Jonathan,Williams,British,Mexico City,Mexico
+,Bob,Bondurant,American,Monte-Carlo,Monaco
+,Peter,Arundell,British,Spa,Belgium
+,Vic,Wilson,British,Spa,Belgium
+,John,Taylor,British,Reims,France
+,Chris,Lawrence,British,Kent,UK
+,Trevor,Taylor,British,Kent,UK
+,Giacomo,Russo,Italian,Monza,Italy
+,Phil,Hill,American,Monza,Italy
+,Innes,Ireland,British,New York State,USA
+,Ronnie,Bucknum,American,New York State,USA
+,Paul,Hawkins,Australian,Eastern Cape Province,South Africa
+,David,Prophet,British,Eastern Cape Province,South Africa
+,Tony,Maggs,South African,Eastern Cape Province,South Africa
+,Trevor,Blokdyk,South African,Eastern Cape Province,South Africa
+,Neville,Lederle,South African,Eastern Cape Province,South Africa
+,Doug,Serrurier,South African,Eastern Cape Province,South Africa
+,Brausch,Niemann,South African,Eastern Cape Province,South Africa
+,Ernie,Pieterse,South African,Eastern Cape Province,South Africa
+,Clive,Puzey,Rhodesian,Eastern Cape Province,South Africa
+,Ray,Reed,South African,Eastern Cape Province,South Africa
+,David,Clapham,South African,Eastern Cape Province,South Africa
+,Alex,Blignaut,South African,Eastern Cape Province,South Africa
+,Masten,Gregory,American,Spa,Belgium
+,John,Rhodes,British,Silverstone,UK
+,Ian,Raby,British,Silverstone,UK
+,Alan,Rollinson,British,Silverstone,UK
+,Brian,Gubby,British,Silverstone,UK
+,Gerhard,Mitter,German,Nürburg,Germany
+,Roberto,Bussinello,Italian,Nürburg,Germany
+,Nino,Vaccarella,Italian,Monza,Italy
+,Giorgio,Bassi,Italian,Monza,Italy
+,Maurice,Trintignant,French,Monte-Carlo,Monaco
+,Bernard,Collomb,French,Monte-Carlo,Monaco
+,André,Pilette,Belgian,Monte-Carlo,Monaco
+,Carel Godin,de Beaufort,Dutch,Zandvoort,Netherlands
+,Edgar,Barth,German,Nürburg,Germany
+,Mário de Araújo,Cabral,Portuguese,Monza,Italy
+,Walt,Hansgen,American,New York State,USA
+,Hap,Sharp,American,New York State,USA
+,Willy,Mairesse,Belgian,Monte-Carlo,Monaco
+,John,Campbell-Jones,British,Monte-Carlo,Monaco
+,Ian,Burgess,British,Monte-Carlo,Monaco
+,Tony,Settember,American,Monte-Carlo,Monaco
+,Nasif,Estéfano,Argentine,Monte-Carlo,Monaco
+,Jim,Hall,American,Monte-Carlo,Monaco
+,Tim,Parnell,British,Nürburg,Germany
+,Kurt,Kuhnke,German,Nürburg,Germany
+,Ernesto,Brambilla,Italian,Monza,Italy
+,Roberto,Lippi,Italian,Monza,Italy
+,Günther,Seiffert,German,Monza,Italy
+,Carlo,Abate,Italian,Monza,Italy
+,Gaetano,Starrabba,Italian,Monza,Italy
+,Peter,Broeker,Canadian,New York State,USA
+,Rodger,Ward,American,New York State,USA
+,Ernie,de Vos,Dutch,New York State,USA
+,Frank,Dochnal,American,Mexico City,Mexico
+,Thomas,Monarch,American,Mexico City,Mexico
+GAS,Pierre,Gasly,French,Kuala Lumpur,Malaysia
+,Jackie,Lewis,British,Zandvoort,Netherlands
+,Ricardo,Rodríguez,Mexican,Zandvoort,Netherlands
+,Wolfgang,Seidel,German,Zandvoort,Netherlands
+,Roy,Salvadori,British,Zandvoort,Netherlands
+,Ben,Pon,Dutch,Zandvoort,Netherlands
+,Rob,Slotemaker,Dutch,Zandvoort,Netherlands
+,Tony,Marsh,British,Monte-Carlo,Monaco
+,Gerry,Ashmore,British,Spa,Belgium
+,Heinz,Schiller,Swiss,Spa,Belgium
+,Colin,Davis,British,Rouen,France
+,Jay,Chamberlain,American,Liverpool,UK
+,Tony,Shelly,New Zealander,Liverpool,UK
+,Keith,Greene,British,Liverpool,UK
+,Heini,Walter,Swiss,Nürburg,Germany
+,Ernesto,Prinoth,Italian,Monza,Italy
+,Roger,Penske,American,New York State,USA
+,Rob,Schroeder,British,New York State,USA
+,Timmy,Mayer,American,New York State,USA
+,Bruce,Johnstone,South African,Eastern Cape Province,South Africa
+,Mike,Harris,South African,Eastern Cape Province,South Africa
+,Gary,Hocking,Rhodesian,Eastern Cape Province,South Africa
+,Syd,van der Vyver,South African,Eastern Cape Province,South Africa
+,Stirling,Moss,British,Monte-Carlo,Monaco
+,Wolfgang,von Trips,German,Monte-Carlo,Monaco
+,Cliff,Allison,British,Monte-Carlo,Monaco
+,Hans,Herrmann,German,Monte-Carlo,Monaco
+,Tony,Brooks,British,Monte-Carlo,Monaco
+,Michael,May,Swiss,Monte-Carlo,Monaco
+,Henry,Taylor,British,Monte-Carlo,Monaco
+,Olivier,Gendebien,Belgian,Monte-Carlo,Monaco
+,Giorgio,Scarlatti,Italian,Reims,France
+,Brian,Naylor,British,Reims,France
+,Juan Manuel,Bordeu,Argentine,Reims,France
+,Jack,Fairman,British,Monza,Italy
+,Massimo,Natili,Italian,Liverpool,UK
+,Peter,Monteverdi,Swiss,Nürburg,Germany
+,Renato,Pirocchi,Italian,Nürburg,Germany
+,Geoff,Duke,British,Nürburg,Germany
+,Alfonso,Thiele,American-Italian,Monza,Italy
+,Menato,Boffa,Italian,Monza,Italy
+,Peter,Ryan,Canadian,New York State,USA
+,Lloyd,Ruby,American,New York State,USA
+,Ken,Miles,British,New York State,USA
+,Carlos,Menditeguy,Argentine,Buenos Aires,Argentina
+,Alberto Rodriguez,Larreta,Argentine,Buenos Aires,Argentina
+,José Froilán,González,Argentine,Buenos Aires,Argentina
+,Roberto,Bonomi,Argentine,Buenos Aires,Argentina
+,Gino,Munaron,Italian,Buenos Aires,Argentina
+,Harry,Schell,American,Buenos Aires,Argentina
+,Alan,Stacey,British,Buenos Aires,Argentina
+,Ettore,Chimeri,Venezuelan,Buenos Aires,Argentina
+,Antonio,Creus,Spanish,Buenos Aires,Argentina
+,Chris,Bristow,British,Monte-Carlo,Monaco
+,Bruce,Halford,British,Monte-Carlo,Monaco
+,Chuck,Daigh,American,Monte-Carlo,Monaco
+,Lance,Reventlow,American,Monte-Carlo,Monaco
+,Jim,Rathmann,American,Indianapolis,USA
+,Paul,Goldsmith,American,Indianapolis,USA
+,Don,Branson,American,Indianapolis,USA
+,Johnny,Thomson,American,Indianapolis,USA
+,Eddie,Johnson,American,Indianapolis,USA
+,Bob,Veith,American,Indianapolis,USA
+,Bud,Tingelstad,American,Indianapolis,USA
+,Bob,Christie,American,Indianapolis,USA
+,Red,Amick,American,Indianapolis,USA
+,Duane,Carter,American,Indianapolis,USA
+,Bill,Homeier,American,Indianapolis,USA
+,Gene,Hartley,American,Indianapolis,USA
+,Chuck,Stevenson,American,Indianapolis,USA
+,Bobby,Grim,American,Indianapolis,USA
+,Shorty,Templeman,American,Indianapolis,USA
+,Jim,Hurtubise,American,Indianapolis,USA
+,Jimmy,Bryan,American,Indianapolis,USA
+,Troy,Ruttman,American,Indianapolis,USA
+,Eddie,Sachs,American,Indianapolis,USA
+,Don,Freeland,American,Indianapolis,USA
+,Tony,Bettenhausen,American,Indianapolis,USA
+,Wayne,Weiler,American,Indianapolis,USA
+,Anthony,Foyt,American,Indianapolis,USA
+,Eddie,Russo,American,Indianapolis,USA
+,Johnny,Boyd,American,Indianapolis,USA
+,Gene,Force,American,Indianapolis,USA
+,Jim,McWithey,American,Indianapolis,USA
+,Len,Sutton,American,Indianapolis,USA
+,Dick,Rathmann,American,Indianapolis,USA
+,Al,Herman,American,Indianapolis,USA
+,Dempsey,Wilson,American,Indianapolis,USA
+,Mike,Taylor,British,Spa,Belgium
+,Ron,Flockhart,British,Reims,France
+,David,Piper,British,Reims,France
+,Giulio,Cabianca,Italian,Monza,Italy
+,Piero,Drogo,Italian,Monza,Italy
+,Fred,Gamble,American,Monza,Italy
+,Arthur,Owen,British,Monza,Italy
+,Horace,Gould,British,Monza,Italy
+,Bob,Drake,American,California,USA
+,Ivor,Bueb,British,Monte-Carlo,Monaco
+,Alain,de Changy,Belgian,Monte-Carlo,Monaco
+,Maria,de Filippis,Italian,Monte-Carlo,Monaco
+,Jean,Lucienbonnet,French,Monte-Carlo,Monaco
+,André,Testut,Monegasque,Monte-Carlo,Monaco
+,Jean,Behra,French,Monte-Carlo,Monaco
+,Paul,Russo,American,Indianapolis,USA
+,Jimmy,Daywalt,American,Indianapolis,USA
+,Chuck,Arnold,American,Indianapolis,USA
+,Al,Keller,American,Indianapolis,USA
+,Pat,Flaherty,American,Indianapolis,USA
+,Bill,Cheesbourg,American,Indianapolis,USA
+,Ray,Crawford,American,Indianapolis,USA
+,Jack,Turner,American,Indianapolis,USA
+,Chuck,Weyant,American,Indianapolis,USA
+,Jud,Larson,American,Indianapolis,USA
+,Mike,Magill,American,Indianapolis,USA
+,Carroll,Shelby,American,Zandvoort,Netherlands
+,Fritz,d'Orey,Brazilian,Reims,France
+,Azdrubal,Fontes,Uruguayan,Reims,France
+,Peter,Ashdown,British,Liverpool,UK
+,Bill,Moss,British,Liverpool,UK
+,Dennis,Taylor,British,Liverpool,UK
+,Harry,Blanchard,American,Florida,USA
+,Alessandro,de Tomaso,Argentine-Italian,Florida,USA
+,George,Constantine,American,Florida,USA
+,Bob,Said,American,Florida,USA
+,Phil,Cade,American,Florida,USA
+,Luigi,Musso,Italian,Buenos Aires,Argentina
+,Mike,Hawthorn,British,Buenos Aires,Argentina
+,Juan,Fangio,Argentine,Buenos Aires,Argentina
+,Paco,Godia,Spanish,Buenos Aires,Argentina
+,Peter,Collins,British,Buenos Aires,Argentina
+,Ken,Kavanagh,Australian,Monte-Carlo,Monaco
+,Gerino,Gerini,Italian,Monte-Carlo,Monaco
+,Bruce,Kessler,American,Monte-Carlo,Monaco
+,Paul,Emery,British,Monte-Carlo,Monaco
+,Luigi,Piotti,Italian,Monte-Carlo,Monaco
+,Bernie,Ecclestone,British,Monte-Carlo,Monaco
+,Luigi,Taramazzo,Italian,Monte-Carlo,Monaco
+,Louis,Chiron,Monegasque,Monte-Carlo,Monaco
+,Stuart,Lewis-Evans,British,Monte-Carlo,Monaco
+,George,Amick,American,Indianapolis,USA
+,Jimmy,Reece,American,Indianapolis,USA
+,Johnnie,Parsons,American,Indianapolis,USA
+,Johnnie,Tolan,American,Indianapolis,USA
+,Billy,Garrett,American,Indianapolis,USA
+,Ed,Elisian,American,Indianapolis,USA
+,Pat,O'Connor,American,Indianapolis,USA
+,Jerry,Unser,American,Indianapolis,USA
+,Art,Bisch,American,Indianapolis,USA
+,Christian,Goethals,Belgian,Nürburg,Germany
+,Dick,Gibson,British,Nürburg,Germany
+,Robert,La Caze,French,Casablanca,Morocco
+,André,Guelfi,French,Casablanca,Morocco
+,François,Picard,French,Casablanca,Morocco
+,Tom,Bridger,British,Casablanca,Morocco
+,Alfonso,de Portago,Spanish,Buenos Aires,Argentina
+,Cesare,Perdisa,Italian,Buenos Aires,Argentina
+,Eugenio,Castellotti,Italian,Buenos Aires,Argentina
+,André,Simon,French,Monte-Carlo,Monaco
+,Les,Leston,British,Monte-Carlo,Monaco
+,Sam,Hanks,American,Indianapolis,USA
+,Andy,Linden,American,Indianapolis,USA
+,Marshall,Teague,American,Indianapolis,USA
+,Don,Edmunds,American,Indianapolis,USA
+,Fred,Agabashian,American,Indianapolis,USA
+,Elmer,George,American,Indianapolis,USA
+,Mike,MacDowel,British,Rouen,France
+,Herbert,MacKay-Fraser,American,Rouen,France
+,Bob,Gerard,British,Liverpool,UK
+,Umberto,Maglioli,Italian,Nürburg,Germany
+,Paul,England,Australian,Nürburg,Germany
+,Chico,Landi,Brazilian,Buenos Aires,Argentina
+,Alberto,Uria,Uruguayan,Buenos Aires,Argentina
+,Hernando,da Silva Ramos,Brazilian,Monte-Carlo,Monaco
+,Élie,Bayol,French,Monte-Carlo,Monaco
+,Robert,Manzon,French,Monte-Carlo,Monaco
+,Louis,Rosier,French,Monte-Carlo,Monaco
+,Bob,Sweikert,American,Indianapolis,USA
+,Cliff,Griffith,American,Indianapolis,USA
+,Duke,Dinsmore,American,Indianapolis,USA
+,Keith,Andrews,American,Indianapolis,USA
+,Paul,Frère,Belgian,Spa,Belgium
+,Luigi,Villoresi,Italian,Spa,Belgium
+,Piero,Scotti,Italian,Spa,Belgium
+,Colin,Chapman,British,Reims,France
+,Desmond,Titterington,British,Silverstone,UK
+,Archie,Scott Brown,British,Silverstone,UK
+,Ottorino,Volonterio,Swiss,Nürburg,Germany
+,André,Milhoux,Belgian,Nürburg,Germany
+,Toulo,de Graffenried,Swiss,Monza,Italy
+,Piero,Taruffi,Italian,Monza,Italy
+,Nino,Farina,Italian,Buenos Aires,Argentina
+,Roberto,Mieres,Argentine,Buenos Aires,Argentina
+,Sergio,Mantovani,Italian,Buenos Aires,Argentina
+,Clemar,Bucci,Argentine,Buenos Aires,Argentina
+,Jesús,Iglesias,Argentine,Buenos Aires,Argentina
+,Alberto,Ascari,Italian,Buenos Aires,Argentina
+,Karl,Kling,German,Buenos Aires,Argentina
+,Pablo,Birger,Argentine,Buenos Aires,Argentina
+,Jacques,Pollet,French,Monte-Carlo,Monaco
+,Lance,Macklin,British,Monte-Carlo,Monaco
+,Ted,Whiteaway,British,Monte-Carlo,Monaco
+,Jimmy,Davies,American,Indianapolis,USA
+,Walt,Faulkner,American,Indianapolis,USA
+,Cal,Niday,American,Indianapolis,USA
+,Art,Cross,American,Indianapolis,USA
+,Bill,Vukovich,American,Indianapolis,USA
+,Jack,McGrath,American,Indianapolis,USA
+,Jerry,Hoyt,American,Indianapolis,USA
+,Johnny,Claes,Belgian,Spa,Belgium
+,Peter,Walker,British,Zandvoort,Netherlands
+,Mike,Sparken,French,Liverpool,UK
+,Ken,Wharton,British,Liverpool,UK
+,Kenneth,McAlpine,British,Liverpool,UK
+,Leslie,Marr,British,Liverpool,UK
+,Tony,Rolt,British,Liverpool,UK
+,John,Fitch,American,Monza,Italy
+,Jean,Lucas,French,Monza,Italy
+,Prince,Bira,Thai,Buenos Aires,Argentina
+,Onofre,Marimón,Argentine,Buenos Aires,Argentina
+,Roger,Loyer,French,Buenos Aires,Argentina
+,Jorge,Daponte,Argentine,Buenos Aires,Argentina
+,Mike,Nazaruk,American,Indianapolis,USA
+,Larry,Crockett,American,Indianapolis,USA
+,Manny,Ayulo,American,Indianapolis,USA
+,Frank,Armi,American,Indianapolis,USA
+,Travis,Webb,American,Indianapolis,USA
+,Len,Duncan,American,Indianapolis,USA
+,Ernie,McCoy,American,Indianapolis,USA
+,Jacques,Swaters,American,Spa,Belgium
+,Georges,Berger,Belgian,Reims,France
+,Don,Beauman,British,Silverstone,UK
+,Leslie,Thorne,British,Silverstone,UK
+,Bill,Whitehouse,British,Silverstone,UK
+,John,Riseley-Prichard,British,Silverstone,UK
+,Reg,Parnell,British,Silverstone,UK
+,Peter,Whitehead,British,Silverstone,UK
+,Eric,Brandon,British,Silverstone,UK
+,Alan,Brown,British,Silverstone,UK
+,Rodney,Nuckey,British,Silverstone,UK
+,Hermann,Lang,German,Nürburg,Germany
+,Theo,Helfrich,German,Nürburg,Germany
+,Fred,Wacker,American,Bern,Switzerland
+,Giovanni,de Riu,Italian,Monza,Italy
+,Oscar,Gálvez,Argentine,Buenos Aires,Argentina
+,John,Barber,British,Buenos Aires,Argentina
+,Felice,Bonetto,Italian,Buenos Aires,Argentina
+,Adolfo,Cruz,Argentine,Buenos Aires,Argentina
+,Duke,Nalon,American,Indianapolis,USA
+,Carl,Scarborough,American,Indianapolis,USA
+,Bill,Holland,American,Indianapolis,USA
+,Bob,Scott,American,Indianapolis,USA
+,Arthur,Legat,Belgian,Spa,Belgium
+,Yves,Cabantous,French,Reims,France
+,Tony,Crook,British,Silverstone,UK
+,Jimmy,Stewart,British,Silverstone,UK
+,Ian,Stewart,British,Silverstone,UK
+,Duncan,Hamilton,British,Silverstone,UK
+,Ernst,Klodwig,East German,Nürburg,Germany
+,Rudolf,Krause,East German,Nürburg,Germany
+,Oswald,Karch,German,Nürburg,Germany
+,Willi,Heeks,German,Nürburg,Germany
+,Theo,Fitzau,East German,Nürburg,Germany
+,Kurt,Adolff,German,Nürburg,Germany
+,Günther,Bechem,German,Nürburg,Germany
+,Erwin,Bauer,German,Nürburg,Germany
+,Hans,von Stuck,German,Nürburg,Germany
+,Ernst,Loof,German,Nürburg,Germany
+,Albert,Scherrer,Swiss,Bern,Switzerland
+,Max,de Terra,Swiss,Bern,Switzerland
+,Peter,Hirt,Swiss,Bern,Switzerland
+,Piero,Carini,Italian,Monza,Italy
+,Rudi,Fischer,Swiss,Bern,Switzerland
+,Toni,Ulmen,German,Bern,Switzerland
+,George,Abecassis,British,Bern,Switzerland
+,George,Connor,American,Indianapolis,USA
+,Jim,Rigsby,American,Indianapolis,USA
+,Joe,James,American,Indianapolis,USA
+,Bill,Schindler,American,Indianapolis,USA
+,George,Fonder,American,Indianapolis,USA
+,Henry,Banks,American,Indianapolis,USA
+,Johnny,McDowell,American,Indianapolis,USA
+,Chet,Miller,American,Indianapolis,USA
+,Bobby,Ball,American,Indianapolis,USA
+,Charles,de Tornaco,Belgian,Spa,Belgium
+,Roger,Laurent,Belgian,Spa,Belgium
+,Robert,O'Brien,American,Spa,Belgium
+,Tony,Gaze,Australian,Spa,Belgium
+,Robin,Montgomerie-Charrington,British,Spa,Belgium
+,Franco,Comotti,Italian,Rouen,France
+,Philippe,Étancelin,French,Rouen,France
+,Dennis,Poore,British,Silverstone,UK
+,Eric,Thompson,British,Silverstone,UK
+,Ken,Downing,British,Silverstone,UK
+,Graham,Whitehead,British,Silverstone,UK
+,Gino,Bianco,Brazilian,Silverstone,UK
+,David,Murray,British,Silverstone,UK
+,Eitel,Cantoni,Uruguayan,Silverstone,UK
+,Bill,Aston,British,Silverstone,UK
+,Adolf,Brudes,German,Nürburg,Germany
+,Fritz,Riess,German,Nürburg,Germany
+,Helmut,Niedermayr,German,Nürburg,Germany
+,Hans,Klenk,German,Nürburg,Germany
+,Marcel,Balsa,French,Nürburg,Germany
+,Rudolf,Schoeller,Swiss,Nürburg,Germany
+,Paul,Pietsch,German,Nürburg,Germany
+,Josef,Peters,German,Nürburg,Germany
+,Dries,van der Lof,Dutch,Zandvoort,Netherlands
+,Jan,Flinterman,Dutch,Zandvoort,Netherlands
+,Piero,Dusio,Italian,Monza,Italy
+,Alberto,Crespo,Argentine,Monza,Italy
+,Franco,Rol,Italian,Monza,Italy
+,Consalvo,Sanesi,Italian,Bern,Switzerland
+,Guy,Mairesse,French,Bern,Switzerland
+,Henri,Louveau,French,Bern,Switzerland
+,Lee,Wallard,American,Indianapolis,USA
+,Carl,Forberg,American,Indianapolis,USA
+,Mauri,Rose,American,Indianapolis,USA
+,Bill,Mackey,American,Indianapolis,USA
+,Cecil,Green,American,Indianapolis,USA
+,Walt,Brown,American,Indianapolis,USA
+,Mack,Hellings,American,Indianapolis,USA
+,Pierre,Levegh,French,Spa,Belgium
+,Eugène,Chaboud,French,Reims,France
+,Aldo,Gordini,French,Reims,France
+,Joe,Kelly,Irish,Silverstone,UK
+,Philip,Fotheringham-Parker,British,Silverstone,UK
+,Brian,Shawe Taylor,British,Silverstone,UK
+,John,James,British,Silverstone,UK
+,Toni,Branca,Swiss,Nürburg,Germany
+,Ken,Richardson,British,Monza,Italy
+,Juan,Jover,Spanish,Barcelona,Spain
+,Georges,Grignard,French,Barcelona,Spain
+,David,Hampshire,British,Silverstone,UK
+,Geoff,Crossley,British,Silverstone,UK
+,Luigi,Fagioli,Italian,Reims,France
+,Cuth,Harrison,British,Silverstone,UK
+,Joe,Fry,British,Silverstone,UK
+,Eugène,Martin,French,Silverstone,UK
+,Leslie,Johnson,British,Silverstone,UK
+,Clemente,Biondetti,Italian,Monza,Italy
+,Alfredo,Pián,Argentine,Monte-Carlo,Monaco
+,Raymond,Sommer,French,Monte-Carlo,Monaco
+,Joie,Chitwood,American,Indianapolis,USA
+,Myron,Fohr,American,Indianapolis,USA
+,Walt,Ader,American,Indianapolis,USA
+,Jackie,Holmes,American,Indianapolis,USA
+,Bayliss,Levrett,American,Indianapolis,USA
+,Jimmy,Jackson,American,Indianapolis,USA
+,Nello,Pagani,Italian,Bern,Switzerland
+,Charles,Pozzi,French,Reims,France
+,Dorino,Serafini,Italian,Monza,Italy
+,Bill,Cantrell,American,Indianapolis,USA
+,Johnny,Mantz,American,Indianapolis,USA
+,Danny,Kladis,American,Indianapolis,USA
+,Óscar,González,Uruguayan,Buenos Aires,Argentina
+HUL,Nico,Hülkenberg,German,Sakhir,Bahrain
+PET,Vitaly,Petrov,Russian,Sakhir,Bahrain
+DIG,Lucas,di Grassi,Brazilian,Sakhir,Bahrain
+SEN,Bruno,Senna,Brazilian,Sakhir,Bahrain
+CHA,Karun,Chandhok,Indian,Sakhir,Bahrain
+MAL,Pastor,Maldonado,Venezuelan,Melbourne,Australia
+DIR,Paul,di Resta,British,Melbourne,Australia
+PER,Sergio,Pérez,Mexican,Melbourne,Australia
+DAM,Jérôme,d'Ambrosio,Belgian,Melbourne,Australia
+RIC,Daniel,Ricciardo,Australian,Silverstone,UK
+VER,Jean-Éric,Vergne,French,Melbourne,Australia
+PIC,Charles,Pic,French,Melbourne,Australia
+CHI,Max,Chilton,British,Melbourne,Australia
+GUT,Esteban,Gutiérrez,Mexican,Melbourne,Australia
+BOT,Valtteri,Bottas,Finnish,Melbourne,Australia
+VDG,Giedo,van der Garde,Dutch,Melbourne,Australia
+BIA,Jules,Bianchi,French,Melbourne,Australia
+MAG,Kevin,Magnussen,Danish,Melbourne,Australia
+KVY,Daniil,Kvyat,Russian,Melbourne,Australia
+LOT,André,Lotterer,German,Spa,Belgium
+ERI,Marcus,Ericsson,Swedish,Melbourne,Australia
+STE,Will,Stevens,British,Abu Dhabi,UAE
+VER,Max,Verstappen,Dutch,Melbourne,Australia
+NAS,Felipe,Nasr,Brazilian,Melbourne,Australia
+SAI,Carlos,Sainz,Spanish,Melbourne,Australia
+MER,Roberto,Merhi,Spanish,Kuala Lumpur,Malaysia
+RSS,Alexander,Rossi,American,Marina Bay,Singapore
+PAL,Jolyon,Palmer,British,Melbourne,Australia
+WEH,Pascal,Wehrlein,German,Melbourne,Australia
+HAR,Rio,Haryanto,Indonesian,Melbourne,Australia
+VAN,Stoffel,Vandoorne,Belgian,Sakhir,Bahrain
+OCO,Esteban,Ocon,French,Spa,Belgium
+STR,Lance,Stroll,Canadian,Melbourne,Australia
+GIO,Antonio,Giovinazzi,Italian,Melbourne,Australia
+HAR,Brendon,Hartley,New Zealander,Austin,USA
+LEC,Charles,Leclerc,Monegasque,Melbourne,Australia
+SIR,Sergey,Sirotkin,Russian,Melbourne,Australia
+NOR,Lando,Norris,British,Melbourne,Australia
+RUS,George,Russell,British,Melbourne,Australia
+ALB,Alexander,Albon,Thai,Melbourne,Australia
+LAT,Nicholas,Latifi,Canadian,Spielberg,Austria
+FIT,Pietro,Fittipaldi,Brazilian,Sakhir,Bahrain
+AIT,Jack,Aitken,British,Sakhir,Bahrain
+TSU,Yuki,Tsunoda,Japanese,Sakhir,Bahrain
+MAZ,Nikita,Mazepin,Russian,Sakhir,Bahrain
+MSC,Mick,Schumacher,German,Sakhir,Bahrain
+ZHO,Guanyu,Zhou,Chinese,Sakhir,Bahrain
+DEV,Nyck,de Vries,Dutch,Monza,Italy
+PIA,Oscar,Piastri,Australian,Sakhir,Bahrain
+SAR,Logan,Sargeant,American,Sakhir,Bahrain
+LAW,Liam,Lawson,New Zealander,Zandvoort,Netherlands
+BEA,Oliver,Bearman,British,Jeddah,Saudi Arabia

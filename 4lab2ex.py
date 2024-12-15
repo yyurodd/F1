@@ -10,7 +10,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, f1_score
+
 from sklearn.preprocessing import LabelEncoder
 import warnings
 
@@ -25,7 +26,6 @@ races = pd.read_csv("AI/F1/races.csv")
 circuits = pd.read_csv("AI/F1/circuits.csv")
 constructors = pd.read_csv("AI/F1/constructors.csv")
 
-# Объединение данных
 # Объединение данных
 df = pd.merge(drivers, results, on='driverId')
 df = pd.merge(df, races, on='raceId', suffixes=('', '_race'))
@@ -78,16 +78,15 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 
 # Оценка качества модели
-accuracy = accuracy_score(y_test, y_pred)
+accuracy = f1_score(y_test, y_pred)
 conf_matrix = confusion_matrix(y_test, y_pred)
-class_report = classification_report(y_test, y_pred)
+
 
 print("Результаты оценки модели:")
-print(f"Точность (accuracy): {accuracy:.3f}")
+print(f"Точность: {accuracy:.3f}")
 print("\nМатрица ошибок:")
 print(conf_matrix)
-print("\nДетальный отчет:")
-print(class_report)
+
 
 # Визуализация матрицы ошибок
 plt.figure(figsize=(8, 6))
@@ -117,6 +116,3 @@ print(f"Количество записей (результатов гонщик
 print(f"Количество уникальных гонок: {df['raceId'].nunique()}")
 print(f"Количество подиумов: {df['podium'].sum()}")
 print(f"Среднее количество гонщиков в гонке: {len(df) / df['raceId'].nunique():.1f}")
-print("\nВажность признаков:")
-for _, row in importance.iterrows():
-    print(f"{row['Признак']}: {row['Важность']:.4f}")

@@ -1,21 +1,3 @@
-'''
-Лабораторная работа 3 - Первичный анализ данных Формулы-1
-
-Этот скрипт выполняет первичный анализ данных из различных CSV файлов, связанных с Формулой-1.
-Основные задачи:
-1. Загрузка и просмотр данных из нескольких CSV файлов
-2. Вывод первых 5 строк каждой таблицы
-3. Вывод информации о структуре данных
-4. Анализ уникальных значений в каждом столбце
-
-Используемые наборы данных:
-- drivers.csv: информация о гонщиках
-- results.csv: результаты гонок
-- qualifying.csv: данные квалификаций
-- races.csv: информация о гонках
-- circuits.csv: данные о трассах
-'''
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -38,7 +20,6 @@ circuits = pd.read_csv("AI/F1/circuits.csv")
 dataset = [drivers, circuits, qualifying, races, results]
 titles = ['Drivers', 'Circuits', 'Qualifying', 'Races', 'Results']
 
-# Настройка отображения всех столбцов в pandas
 pd.set_option('display.max_columns', None)
 
 # Первый цикл: Вывод первых 5 строк каждой таблицы
