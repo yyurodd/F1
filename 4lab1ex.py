@@ -16,7 +16,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 import warnings
-import shap
 
 warnings.simplefilter('ignore')
 sns.set()
@@ -40,7 +39,6 @@ df['dob'] = pd.to_datetime(df['dob']).dt.year
 df['date'] = pd.to_datetime(df['date']).dt.year
 df['age'] = df['date'] - df['dob']
 
-df['experience'] = df.groupby('driverId')['raceId'].transform('rank')
 df.drop(['driverRef','number_x','code','forename','surname','nationality','url','constructorId','number_y',
     'positionText','position','time','fastestLap','fastestLapTime','fastestLapSpeed','round',
     'circuitId','name','year','time_race','url_race','fp1_date','fp1_time','fp2_date','fp2_time','fp3_date','fp3_time','quali_date','quali_time','sprint_date','sprint_time','circuitRef','name_circuit','url_circuit'
@@ -85,9 +83,8 @@ def remove_anomalies(df):
 # Применение функции очистки данных
 df = remove_anomalies(df)
 
-df.to_csv('AI/F1/4lab1ex.csv', index=False)
 
-features = ['grid', 'laps', 'age', 'experience', 'constructor_score']  # входные параметры
+features = ['grid', 'laps', 'age', 'constructor_score']  # входные параметры
 target = 'positionOrder'     # целевая метка
 
 # Разделение на входные параметры (X) и целевую метку (y)
